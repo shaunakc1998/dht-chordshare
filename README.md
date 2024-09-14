@@ -16,44 +16,44 @@ This project implements a decentralized peer-to-peer file sharing system using t
 
 Below is a high-level overview of the system's operations and control flow in the Chord network.
 
-![System Workflow](https://github.com/RahimChunara/ChordShare/blob/main/docs/Chord%20Algorithm%20File%20Sharing.pdf)
+![System Workflow](https://github.com/ShaunakChaudhary/ChordShare/blob/main/docs/Chord%20Algorithm%20File%20Sharing.pdf)
 
 ## Use Case Diagram
 
 This diagram shows user interactions with the Chord node system.
 
-![Use Case Diagram](https://github.com/RahimChunara/ChordShare/blob/main/docs/Interaction%20between%20user%20and%20system%20functions.png)
+![Use Case Diagram](https://github.com/ShaunakChaudhary/ChordShare/blob/main/docs/Interaction%20between%20user%20and%20system%20functions.png)
 
 ## File Management
 
 The sequence diagram below details file upload, download, and replication processes.
 
-![File Management](https://github.com/RahimChunara/ChordShare/blob/main/docs/File%20Uploading%2C%20Downloading%20%26%20Replication.png)
+![File Management](https://github.com/ShaunakChaudhary/ChordShare/blob/main/docs/File%20Uploading%2C%20Downloading%20%26%20Replication.png)
 
 ## User Interface
 
 ### Display Menu
 Presents a list of operations available to the user.
-![Display Menu](https://github.com/RahimChunara/ChordShare/blob/main/docs/User%20Interface.jpg)
+![Display Menu](https://github.com/ShaunakChaudhary/ChordShare/blob/main/docs/User%20Interface.jpg)
 
 ### Uploading File
 Simplifies file sharing across the network.
-![Uploading File](https://github.com/RahimChunara/ChordShare/blob/main/docs/Upload.png)
+![Uploading File](https://github.com/ShaunakChaudhary/ChordShare/blob/main/docs/Upload.png)
 
 ### Downloading File
 Facilitates file downloads from the network.
-![Downloading File](https://github.com/RahimChunara/ChordShare/blob/main/docs/Download.png)
+![Downloading File](https://github.com/ShaunakChaudhary/ChordShare/blob/main/docs/Download.png)
 
 ### Crash Handling
 Informs users during a node crash and initiates recovery.
-![Crash Handling](https://github.com/RahimChunara/ChordShare/blob/main/docs/Crash.png)
+![Crash Handling](https://github.com/ShaunakChaudhary/ChordShare/blob/main/docs/Crash.png)
 
 ## Installation and Usage
 
 Clone the repository:
 
 ```bash
-[git clone https://github.com/RahimChunara/ChordShare.git]
+[git clone https://github.com/ShaunakChaudhary/ChordShare.git]
 ```
 
 Install the required dependencies (e.g., Python, if applicable).
